@@ -1,0 +1,2963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ammarah/.config/xfce4/helpers.rc" added="2024-07-17T04:08:25.776089Z" modified="2024-07-20T02:34:23.254126Z" visited="2024-07-17T04:08:25.776091Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T04:08:25.776092Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-20T02:34:23.254125Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml" added="2024-07-17T04:08:55.269386Z" modified="2024-07-20T09:53:36.342479Z" visited="2024-07-17T04:08:55.269388Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-20T09:53:36.342475Z" count="5"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-20T09:48:04.281730Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/dunst/dunstrc" added="2024-07-17T04:10:40.580859Z" modified="2024-07-17T04:10:40.580865Z" visited="2024-07-17T04:10:40.580861Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T04:10:40.580863Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main.zip" added="2024-07-17T05:22:54.802822Z" modified="2024-07-19T02:54:09.175733Z" visited="2024-07-17T05:22:54.802824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-07-19T02:54:09.175731Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/sway/config" added="2024-07-17T05:23:14.417604Z" modified="2024-07-17T05:30:39.670581Z" visited="2024-07-17T05:23:14.417606Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T05:30:39.670578Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T05:23:14.708831Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/sway/config.d/appearance.conf" added="2024-07-17T05:30:56.224287Z" modified="2024-07-17T05:30:56.224293Z" visited="2024-07-17T05:30:56.224288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T05:30:56.224290Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/config.d/bar.conf" added="2024-07-17T05:41:52.951364Z" modified="2024-07-17T06:00:20.480006Z" visited="2024-07-17T05:41:52.951366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:00:20.480002Z" count="4"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T05:55:37.696441Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config" added="2024-07-17T05:42:30.491671Z" modified="2024-07-18T12:15:09.984424Z" visited="2024-07-17T05:42:30.491673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T12:15:09.984422Z" count="7"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T12:15:09.668469Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/config" added="2024-07-17T05:44:00.206408Z" modified="2024-07-17T07:28:14.403634Z" visited="2024-07-17T05:44:00.206410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T07:28:14.403631Z" count="20"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T05:53:28.564316Z" count="2"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-07-17T07:19:28.812240Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/config.d/bind.conf" added="2024-07-17T05:44:24.114740Z" modified="2024-07-17T06:30:17.705910Z" visited="2024-07-17T05:44:24.114742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:30:17.420203Z" count="4"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:30:17.705908Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/keybinding.conf" added="2024-07-17T05:45:34.827462Z" modified="2024-07-17T07:48:11.539063Z" visited="2024-07-17T05:45:34.827462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T07:48:11.539062Z" count="3"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T07:48:11.250832Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/config.d/base.conf" added="2024-07-17T05:47:08.967510Z" modified="2024-07-17T07:19:49.081632Z" visited="2024-07-17T05:47:08.967512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T07:19:49.081629Z" count="7"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:30:04.356980Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/config.d/input.conf" added="2024-07-17T05:47:28.372778Z" modified="2024-07-17T05:47:28.666897Z" visited="2024-07-17T05:47:28.372780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T05:47:28.372782Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T05:47:28.666896Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/config.d/sway.conf" added="2024-07-17T05:47:32.493225Z" modified="2024-07-17T05:47:32.797213Z" visited="2024-07-17T05:47:32.493227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T05:47:32.493231Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T05:47:32.797211Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/config.d/startup.conf" added="2024-07-17T05:48:10.157891Z" modified="2024-07-17T05:48:10.449199Z" visited="2024-07-17T05:48:10.157893Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T05:48:10.157896Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T05:48:10.449197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/config.d/color.conf" added="2024-07-17T05:48:26.095497Z" modified="2024-07-17T07:06:30.710431Z" visited="2024-07-17T05:48:26.095499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T07:06:30.710428Z" count="4"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:39:17.477893Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/i3status/i3status.conf" added="2024-07-17T05:55:06.900816Z" modified="2024-07-17T05:55:07.229844Z" visited="2024-07-17T05:55:06.900818Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T05:55:06.900821Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T05:55:07.229842Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/config.d/appearance.conf" added="2024-07-17T05:55:27.212537Z" modified="2024-07-17T06:00:22.831217Z" visited="2024-07-17T05:55:27.212539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:00:22.831213Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T05:55:27.546248Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/autostart.conf" added="2024-07-17T06:04:49.795542Z" modified="2024-07-17T06:04:50.099193Z" visited="2024-07-17T06:04:49.795544Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:04:49.795547Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:04:50.099191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway/keybinding.conf" added="2024-07-17T06:06:16.424729Z" modified="2024-07-17T06:14:57.550162Z" visited="2024-07-17T06:06:16.424730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:06:16.424733Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:14:57.550157Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway.d/config" added="2024-07-17T06:06:59.915527Z" modified="2024-07-17T07:26:15.279180Z" visited="2024-07-17T06:06:59.915528Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:06:59.915531Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T07:26:15.279178Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway.d/config.d/sway.conf" added="2024-07-17T06:13:30.842570Z" modified="2024-07-17T07:26:19.813569Z" visited="2024-07-17T06:13:30.842571Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T07:26:19.813568Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway.d/config.d/bind.conf" added="2024-07-17T06:13:56.123522Z" modified="2024-07-17T06:15:28.301796Z" visited="2024-07-17T06:13:56.123524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:15:28.301789Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:13:56.407431Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway.d/config.d/base.conf" added="2024-07-17T06:14:10.333856Z" modified="2024-07-17T06:24:50.489204Z" visited="2024-07-17T06:14:10.333857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:24:50.489202Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway.d/config.d/input.conf" added="2024-07-17T06:20:25.300214Z" modified="2024-07-17T06:20:25.577946Z" visited="2024-07-17T06:20:25.300216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:20:25.300218Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:20:25.577944Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway.d/config.d/startup.conf" added="2024-07-17T06:20:31.946918Z" modified="2024-07-17T06:20:32.239545Z" visited="2024-07-17T06:20:31.946920Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:20:31.946921Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:20:32.239543Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/color.conf" added="2024-07-17T06:22:51.367757Z" modified="2024-07-17T06:22:51.623138Z" visited="2024-07-17T06:22:51.367759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:22:51.623135Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/base.conf" added="2024-07-17T06:26:04.145159Z" modified="2024-07-17T06:26:04.396469Z" visited="2024-07-17T06:26:04.145160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:26:04.396466Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway.d/config.d/color.conf" added="2024-07-17T06:38:19.981014Z" modified="2024-07-17T06:38:20.309061Z" visited="2024-07-17T06:38:19.981015Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:38:20.149727Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:38:20.309059Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/sway.d/config.d/bar.conf" added="2024-07-17T06:39:53.698989Z" modified="2024-07-17T06:40:53.261871Z" visited="2024-07-17T06:39:53.698990Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:39:53.698993Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:40:53.261864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/i3-wm/.config/i3/config" added="2024-07-17T06:44:14.026223Z" modified="2024-07-17T06:44:14.325694Z" visited="2024-07-17T06:44:14.026225Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:44:14.026228Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:44:14.325692Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/config" added="2024-07-17T06:46:51.333366Z" modified="2024-07-17T06:46:51.629570Z" visited="2024-07-17T06:46:51.333367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T06:46:51.333369Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T06:46:51.629569Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/base.conf" added="2024-07-17T07:39:16.562066Z" modified="2024-07-22T05:48:48.962511Z" visited="2024-07-17T07:39:16.562068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T12:15:26.436011Z" count="12"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T05:48:48.962510Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/startup.conf" added="2024-07-17T07:41:35.723861Z" modified="2024-07-22T05:48:38.302442Z" visited="2024-07-17T07:41:35.723863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-20T09:49:41.317871Z" count="14"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T05:48:38.302440Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/bind.conf" added="2024-07-17T07:41:50.661096Z" modified="2024-07-22T05:49:07.020910Z" visited="2024-07-17T07:41:50.661098Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-20T09:44:45.716783Z" count="16"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T05:49:07.020909Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3new/config.d/bind.conf" added="2024-07-17T07:48:27.266853Z" modified="2024-07-17T10:45:51.839921Z" visited="2024-07-17T07:48:27.266854Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:45:51.839919Z" count="3"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T10:45:51.801423Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3wm/config" added="2024-07-17T07:57:07.159382Z" modified="2024-07-17T07:57:07.458078Z" visited="2024-07-17T07:57:07.159384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T07:57:07.159385Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T07:57:07.458076Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3new/config" added="2024-07-17T08:06:17.392228Z" modified="2024-07-17T10:45:39.357550Z" visited="2024-07-17T08:06:17.392229Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T10:45:39.070971Z" count="3"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:45:39.357548Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3new/config.d/base.conf" added="2024-07-17T08:06:35.915218Z" modified="2024-07-17T08:06:35.915225Z" visited="2024-07-17T08:06:35.915220Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:06:35.915223Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3new/config.d/keybinding.conf" added="2024-07-17T08:07:34.359134Z" modified="2024-07-17T08:07:34.359143Z" visited="2024-07-17T08:07:34.359136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:07:34.359140Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3d/config" added="2024-07-17T08:11:22.791852Z" modified="2024-07-17T08:11:22.791858Z" visited="2024-07-17T08:11:22.791853Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:11:22.791856Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3.backup/keybinding.conf" added="2024-07-17T08:25:45.054594Z" modified="2024-07-17T08:25:45.345199Z" visited="2024-07-17T08:25:45.054596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T08:25:45.054599Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:25:45.345197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3.backup/autostart.conf" added="2024-07-17T08:26:04.736688Z" modified="2024-07-17T08:30:57.243459Z" visited="2024-07-17T08:26:04.736689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T08:26:04.736691Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:30:57.243457Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3.backup/config" added="2024-07-17T08:28:47.759820Z" modified="2024-07-17T08:40:02.423439Z" visited="2024-07-17T08:28:47.759822Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T08:40:02.423435Z" count="9"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:28:48.040257Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/color.conf" added="2024-07-17T08:33:53.992851Z" modified="2024-07-17T08:33:54.247635Z" visited="2024-07-17T08:33:53.992852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:33:54.247632Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/color.conf" added="2024-07-17T08:41:35.466637Z" modified="2024-07-17T08:41:35.466643Z" visited="2024-07-17T08:41:35.466638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:41:35.466640Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3.backup/config" added="2024-07-17T08:45:23.890190Z" modified="2024-07-17T08:45:23.890195Z" visited="2024-07-17T08:45:23.890191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:45:23.890193Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/i3/scripts/focus-last.py" added="2024-07-17T08:50:08.949698Z" modified="2024-07-17T08:50:09.266453Z" visited="2024-07-17T08:50:08.949699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T08:50:08.949702Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:50:09.266451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/i3/wallpaper/wp6205340-minimal-solar-system-hd-wallpapers.jpg" added="2024-07-17T08:50:38.114242Z" modified="2024-07-17T08:50:38.114253Z" visited="2024-07-17T08:50:38.114244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;feh --start-at %u&apos;" modified="2024-07-17T08:50:38.114246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/i3/wallpaper/earth-from-space-29056-1920x1200.png" added="2024-07-17T08:50:40.003740Z" modified="2024-07-17T08:50:40.003748Z" visited="2024-07-17T08:50:40.003742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;feh --start-at %u&apos;" modified="2024-07-17T08:50:40.003745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/i3/wallpaper/Simple-Minimalist-Wallpaper-2560x1600-64817.jpg" added="2024-07-17T08:50:41.651270Z" modified="2024-07-17T08:50:41.651276Z" visited="2024-07-17T08:50:41.651272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;feh --start-at %u&apos;" modified="2024-07-17T08:50:41.651273Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/i3/systemd-instances/i3lock@user.service" added="2024-07-17T08:50:56.225896Z" modified="2024-07-17T10:37:38.021668Z" visited="2024-07-17T08:50:56.225897Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;xed %U&apos;" modified="2024-07-17T10:37:37.448756Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:50:56.530087Z" count="1"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-07-17T10:37:38.021665Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/i3/config.d/i3.conf" added="2024-07-17T08:51:23.288211Z" modified="2024-07-17T08:51:23.590333Z" visited="2024-07-17T08:51:23.288213Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T08:51:23.288215Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T08:51:23.590330Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/i3/config.d/bind.conf" added="2024-07-17T09:02:04.351288Z" modified="2024-07-17T09:02:04.381790Z" visited="2024-07-17T09:02:04.351289Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:02:04.381785Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3old/config" added="2024-07-17T09:08:50.300461Z" modified="2024-07-17T09:09:02.505531Z" visited="2024-07-17T09:08:50.300462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T09:09:02.505524Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:08:50.630176Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3old/config.d/startup.conf" added="2024-07-17T09:09:16.861428Z" modified="2024-07-17T13:09:31.257285Z" visited="2024-07-17T09:09:16.861431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T13:09:31.257283Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T13:01:53.395437Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3old/config.d/i3.conf" added="2024-07-17T09:10:57.580993Z" modified="2024-07-17T13:09:38.264670Z" visited="2024-07-17T09:10:57.580995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T09:19:53.913456Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T13:09:38.264668Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3old/config.d/base.conf" added="2024-07-17T09:12:07.738845Z" modified="2024-07-17T09:12:08.011438Z" visited="2024-07-17T09:12:07.738847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T09:12:07.738849Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:12:08.011435Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3wm" added="2024-07-17T09:13:44.403697Z" modified="2024-07-17T09:13:44.654479Z" visited="2024-07-17T09:13:44.403699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:13:44.654477Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/base.conf" added="2024-07-17T09:16:18.516015Z" modified="2024-07-17T09:16:18.516021Z" visited="2024-07-17T09:16:18.516016Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:16:18.516018Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/i3.conf" added="2024-07-17T09:21:00.215878Z" modified="2024-07-17T09:52:28.456741Z" visited="2024-07-17T09:21:00.215879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:21:00.463454Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T09:52:28.456737Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/keybinding.conf" added="2024-07-17T09:22:08.904928Z" modified="2024-07-17T09:25:46.606767Z" visited="2024-07-17T09:22:08.904929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:22:08.904931Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T09:25:46.606762Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/autostart.conf" added="2024-07-17T09:27:11.039431Z" modified="2024-07-17T10:21:22.105424Z" visited="2024-07-17T09:27:11.039432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:21:22.105419Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/windowrules.conf" added="2024-07-17T09:27:15.636417Z" modified="2024-07-17T09:27:15.636424Z" visited="2024-07-17T09:27:15.636419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:27:15.636421Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/scripts/detect_displays.sh" added="2024-07-17T09:31:28.505460Z" modified="2024-07-17T09:31:28.505467Z" visited="2024-07-17T09:31:28.505461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:31:28.505464Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3old/config.d/bind.conf" added="2024-07-17T09:32:39.366619Z" modified="2024-07-17T13:39:39.038354Z" visited="2024-07-17T09:32:39.366620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T13:39:39.038353Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/bind.conf" added="2024-07-17T09:33:19.808768Z" modified="2024-07-17T09:33:20.069503Z" visited="2024-07-17T09:33:19.808770Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T09:33:20.069500Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3old/config.d/color.conf" added="2024-07-17T10:13:31.286752Z" modified="2024-07-17T10:13:31.286760Z" visited="2024-07-17T10:13:31.286753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:13:31.286757Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3old/config.d/bar.conf" added="2024-07-17T10:13:40.454954Z" modified="2024-07-17T10:13:40.760033Z" visited="2024-07-17T10:13:40.454957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T10:13:40.454958Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:13:40.760031Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/bar.conf" added="2024-07-17T10:14:28.026527Z" modified="2024-07-17T10:14:28.279396Z" visited="2024-07-17T10:14:28.026528Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:14:28.279392Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3old/config.d/resurrect.conf" added="2024-07-17T10:15:29.250578Z" modified="2024-07-17T10:15:29.250589Z" visited="2024-07-17T10:15:29.250579Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:15:29.250585Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/startup.conf" added="2024-07-17T10:17:53.707925Z" modified="2024-07-17T10:17:53.969529Z" visited="2024-07-17T10:17:53.707927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:17:53.969525Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/i3/config" added="2024-07-17T10:26:21.235636Z" modified="2024-07-17T10:26:21.235642Z" visited="2024-07-17T10:26:21.235636Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:26:21.235639Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/config" added="2024-07-17T10:27:42.923128Z" modified="2024-07-17T10:27:42.923135Z" visited="2024-07-17T10:27:42.923129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:27:42.923132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/config.d/bar.conf" added="2024-07-17T10:29:08.535151Z" modified="2024-07-17T10:29:08.817507Z" visited="2024-07-17T10:29:08.535154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T10:29:08.535156Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:29:08.817504Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/config.d/base.conf" added="2024-07-17T10:29:13.375439Z" modified="2024-07-17T10:29:13.670824Z" visited="2024-07-17T10:29:13.375442Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T10:29:13.375444Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:29:13.670822Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/config.d/bind.conf" added="2024-07-17T10:29:32.287195Z" modified="2024-07-17T10:30:18.045284Z" visited="2024-07-17T10:29:32.287195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:29:32.287198Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T10:30:18.045278Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/config.d/i3.conf" added="2024-07-17T10:29:36.374906Z" modified="2024-07-17T10:34:00.467245Z" visited="2024-07-17T10:29:36.374907Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T10:34:00.467241Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:29:36.674931Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/config.d/windowrules.conf" added="2024-07-17T10:30:05.480048Z" modified="2024-07-17T10:30:05.480055Z" visited="2024-07-17T10:30:05.480049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:30:05.480052Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/i3/config.d/startup.conf" added="2024-07-17T10:33:49.319124Z" modified="2024-07-17T10:33:49.319131Z" visited="2024-07-17T10:33:49.319125Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:33:49.319128Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/i3status/i3status.conf" added="2024-07-17T10:39:38.633462Z" modified="2024-07-17T10:39:38.936295Z" visited="2024-07-17T10:39:38.633464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T10:39:38.633467Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:39:38.936293Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/bar.conf" added="2024-07-17T10:39:53.745444Z" modified="2024-07-18T00:36:43.414882Z" visited="2024-07-17T10:39:53.745445Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:39:53.745448Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:36:43.414875Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3-/config" added="2024-07-17T10:51:50.291080Z" modified="2024-07-17T10:51:50.291090Z" visited="2024-07-17T10:51:50.291082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:51:50.291086Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3-/config.d/keybinding.conf" added="2024-07-17T10:52:03.723631Z" modified="2024-07-17T11:00:41.394277Z" visited="2024-07-17T10:52:03.723633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T10:52:03.723635Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T11:00:41.394273Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/i3.conf" added="2024-07-17T10:59:59.461653Z" modified="2024-07-22T05:48:58.256143Z" visited="2024-07-17T10:59:59.461654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T05:48:43.145716Z" count="4"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-22T05:48:58.256139Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/resurrect.conf" added="2024-07-17T11:27:45.336894Z" modified="2024-07-17T11:27:45.336901Z" visited="2024-07-17T11:27:45.336895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T11:27:45.336898Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/hypr/hyprland.conf" added="2024-07-17T11:33:49.881346Z" modified="2024-07-17T11:33:50.175735Z" visited="2024-07-17T11:33:49.881347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T11:33:49.881351Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T11:33:50.175733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/hypr/config.d/monitor.conf" added="2024-07-17T11:34:28.938790Z" modified="2024-07-17T11:34:29.231378Z" visited="2024-07-17T11:34:28.938792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T11:34:28.938794Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T11:34:29.231376Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3old/scripts/i3exit.sh" added="2024-07-17T12:59:05.535022Z" modified="2024-07-17T12:59:05.535027Z" visited="2024-07-17T12:59:05.535023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T12:59:05.535025Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/scripts/i3-cycle-focus.py" added="2024-07-17T13:00:17.870320Z" modified="2024-07-17T13:00:17.870323Z" visited="2024-07-17T13:00:17.870320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T13:00:17.870322Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/scripts/i3exit.sh" added="2024-07-17T14:00:24.165946Z" modified="2024-07-17T14:00:24.480901Z" visited="2024-07-17T14:00:24.165947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-17T14:00:24.165949Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T14:00:24.480899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/scripts/detect_displays.sh" added="2024-07-17T14:24:16.159430Z" modified="2024-07-17T14:24:16.159437Z" visited="2024-07-17T14:24:16.159431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T14:24:16.159434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/scripts/i3-hide-workspace.sh" added="2024-07-17T14:25:39.170785Z" modified="2024-07-17T14:25:39.170791Z" visited="2024-07-17T14:25:39.170786Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T14:25:39.170788Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/config.d/window-rule.conf" added="2024-07-17T15:27:32.599906Z" modified="2024-07-17T15:27:32.599914Z" visited="2024-07-17T15:27:32.599908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-17T15:27:32.599911Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/wallpaper/wall-05.jpg" added="2024-07-17T15:29:41.136687Z" modified="2024-07-17T15:30:10.554895Z" visited="2024-07-17T15:29:41.136689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;imv-dir %F&apos;" modified="2024-07-17T15:30:10.554891Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.xinitrc" added="2024-07-18T00:43:04.197366Z" modified="2024-07-18T00:43:04.197372Z" visited="2024-07-18T00:43:04.197367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:43:04.197369Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/X11/Xresources" added="2024-07-18T00:43:34.153403Z" modified="2024-07-18T00:43:34.451487Z" visited="2024-07-18T00:43:34.153405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:43:34.153408Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:43:34.451485Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/i3-resurrect/config.json" added="2024-07-18T00:45:22.258054Z" modified="2024-07-18T00:45:22.258061Z" visited="2024-07-18T00:45:22.258055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:45:22.258058Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/ideavim/ideavimrc" added="2024-07-18T00:46:00.130553Z" modified="2024-07-18T00:46:00.440244Z" visited="2024-07-18T00:46:00.130555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:46:00.130558Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:46:00.440242Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/dunst/dunstrc" added="2024-07-18T00:46:48.693936Z" modified="2024-07-18T00:46:49.004739Z" visited="2024-07-18T00:46:48.693938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:46:48.693942Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:46:49.004737Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/mimeapps.list" added="2024-07-18T00:48:06.401988Z" modified="2024-07-18T00:48:06.692087Z" visited="2024-07-18T00:48:06.401989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:48:06.401991Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:48:06.692085Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/chrome-flags.conf" added="2024-07-18T00:48:32.593238Z" modified="2024-07-18T00:48:32.869804Z" visited="2024-07-18T00:48:32.593240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:48:32.593242Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:48:32.869802Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/zsh/.zshrc" added="2024-07-18T00:48:44.420686Z" modified="2024-07-18T00:48:44.702939Z" visited="2024-07-18T00:48:44.420688Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:48:44.420690Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:48:44.702937Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/conky/conkyrc" added="2024-07-18T00:50:12.487056Z" modified="2024-07-18T00:50:12.487066Z" visited="2024-07-18T00:50:12.487058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:50:12.487062Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/rofi/config.rasi" added="2024-07-18T00:51:29.830374Z" modified="2024-07-18T00:51:30.118253Z" visited="2024-07-18T00:51:29.830376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:51:29.830379Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:51:30.118251Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/i3/systemd-instances/i3lock@user.service" added="2024-07-18T00:53:16.682361Z" modified="2024-07-18T00:53:16.975256Z" visited="2024-07-18T00:53:16.682363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:53:16.682365Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:53:16.975254Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/i3/config.d/bar.conf" added="2024-07-18T00:54:41.412922Z" modified="2024-07-18T00:54:41.706682Z" visited="2024-07-18T00:54:41.412924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:54:41.412927Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:54:41.706681Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/i3/config.d/base.conf" added="2024-07-18T00:54:53.120351Z" modified="2024-07-18T00:54:53.421529Z" visited="2024-07-18T00:54:53.120353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T00:54:53.120355Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:54:53.421527Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/dotfiles/.config/i3/config.d/bind.conf" added="2024-07-18T00:55:03.588451Z" modified="2024-07-18T00:55:03.588457Z" visited="2024-07-18T00:55:03.588451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T00:55:03.588454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.zshrc" added="2024-07-18T07:33:51.105394Z" modified="2024-07-24T08:54:29.053127Z" visited="2024-07-18T07:33:51.105394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-24T08:54:29.053125Z" count="4"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T04:27:24.934740Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.Xresources" added="2024-07-18T07:34:01.304077Z" modified="2024-07-19T15:44:02.586802Z" visited="2024-07-18T07:34:01.304078Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T12:52:59.554178Z" count="3"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T15:44:02.586799Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah" added="2024-07-18T07:54:16.733820Z" modified="2024-07-18T10:25:55.696902Z" visited="2024-07-18T07:54:16.733823Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:25:55.696899Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2024-07-18T07:55:27.068751Z" modified="2024-07-18T07:55:27.068759Z" visited="2024-07-18T07:55:27.068753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T07:55:27.068755Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/conky/conky_green" added="2024-07-18T07:59:13.248684Z" modified="2024-07-18T07:59:13.248689Z" visited="2024-07-18T07:59:13.248685Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T07:59:13.248687Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/conky/conky_shortcuts_live_green" added="2024-07-18T07:59:20.147936Z" modified="2024-07-18T07:59:20.147941Z" visited="2024-07-18T07:59:20.147936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T07:59:20.147939Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/useful-commands" added="2024-07-18T08:00:23.701279Z" modified="2024-07-24T07:28:49.087454Z" visited="2024-07-18T08:00:23.701280Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-24T07:28:49.087453Z" count="8"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-24T07:28:48.829462Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/i3/wallpaper/wall-02.jpg" added="2024-07-18T08:05:50.518534Z" modified="2024-07-18T08:06:04.408351Z" visited="2024-07-18T08:05:50.518536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;feh --start-at %u&apos;" modified="2024-07-18T08:06:04.408348Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/wall-01.jpg" added="2024-07-18T08:16:55.393491Z" modified="2024-07-18T08:16:55.393500Z" visited="2024-07-18T08:16:55.393493Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;feh --start-at %u&apos;" modified="2024-07-18T08:16:55.393496Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/wall-02.jpg" added="2024-07-18T08:16:57.440050Z" modified="2024-07-18T08:16:57.440057Z" visited="2024-07-18T08:16:57.440052Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;feh --start-at %u&apos;" modified="2024-07-18T08:16:57.440054Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/lightdm/slick-greeter.conf" added="2024-07-18T08:17:25.854909Z" modified="2024-07-18T08:17:25.854916Z" visited="2024-07-18T08:17:25.854911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T08:17:25.854913Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/paru.conf" added="2024-07-18T08:30:46.582777Z" modified="2024-07-18T08:30:46.582782Z" visited="2024-07-18T08:30:46.582777Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T08:30:46.582780Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/grub" added="2024-07-18T08:36:46.638692Z" modified="2024-07-18T08:36:46.638698Z" visited="2024-07-18T08:36:46.638693Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T08:36:46.638696Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/customize-grub-font.txt" added="2024-07-18T08:38:52.158394Z" modified="2024-07-18T10:02:00.426787Z" visited="2024-07-18T08:38:52.158394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T09:59:39.677209Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T10:02:00.426780Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/mysql_setup" added="2024-07-18T09:40:46.767371Z" modified="2024-07-18T09:40:46.767376Z" visited="2024-07-18T09:40:46.767371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T09:40:46.767373Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/90-touchpad.conf" added="2024-07-18T09:56:15.164592Z" modified="2024-07-18T09:56:15.428982Z" visited="2024-07-18T09:56:15.164593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T09:56:15.428979Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/90-touchpad.conf" added="2024-07-18T09:58:05.471577Z" modified="2024-07-18T09:58:05.836178Z" visited="2024-07-18T09:58:05.471578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T09:58:05.471580Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T09:58:05.836176Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/customize-grub-font.txt" added="2024-07-18T09:59:16.798788Z" modified="2024-07-18T09:59:17.144998Z" visited="2024-07-18T09:59:16.798790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-18T09:59:16.798793Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T09:59:17.144996Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/cp" added="2024-07-18T10:24:27.987096Z" modified="2024-07-18T10:24:27.987104Z" visited="2024-07-18T10:24:27.987098Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:24:27.987100Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///" added="2024-07-18T10:24:40.983457Z" modified="2024-07-18T10:24:40.983462Z" visited="2024-07-18T10:24:40.983458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:24:40.983460Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2024-07-18T10:24:46.798708Z" modified="2024-07-18T10:24:46.798712Z" visited="2024-07-18T10:24:46.798709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:24:46.798710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config" added="2024-07-18T10:25:12.758407Z" modified="2024-07-18T10:25:57.668362Z" visited="2024-07-18T10:25:12.758409Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:25:57.668358Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/xfce4" added="2024-07-18T10:25:14.943435Z" modified="2024-07-18T10:25:58.806150Z" visited="2024-07-18T10:25:14.943436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:25:58.806147Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/xfce4/xfconf" added="2024-07-18T10:25:15.910570Z" modified="2024-07-18T10:25:15.910577Z" visited="2024-07-18T10:25:15.910571Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:25:15.910573Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/xfce4/xfconf/xfce-perchannel-xml" added="2024-07-18T10:25:16.646500Z" modified="2024-07-18T10:25:16.646508Z" visited="2024-07-18T10:25:16.646502Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:25:16.646503Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/ammarah/Workspaces/i3-wm" added="2024-07-18T10:25:38.323063Z" modified="2024-07-18T10:25:38.323070Z" visited="2024-07-18T10:25:38.323064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:25:38.323066Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/ammarah/Workspaces/i3-wm/.config" added="2024-07-18T10:25:42.106631Z" modified="2024-07-18T10:25:42.106639Z" visited="2024-07-18T10:25:42.106633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:25:42.106635Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/ammarah/Workspaces/i3-wm/.config/xfce4" added="2024-07-18T10:25:43.917280Z" modified="2024-07-18T10:25:43.917288Z" visited="2024-07-18T10:25:43.917282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:25:43.917284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/ammarah/Workspaces/i3-wm/.config/xfce4/helpers.rc" added="2024-07-18T10:25:46.477028Z" modified="2024-07-18T10:25:46.796652Z" visited="2024-07-18T10:25:46.477030Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:25:46.477032Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T10:25:46.796650Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive" added="2024-07-18T10:26:42.968531Z" modified="2024-07-18T10:26:42.968540Z" visited="2024-07-18T10:26:42.968533Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:26:42.968535Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Sounds" added="2024-07-18T10:26:47.481652Z" modified="2024-07-18T10:26:47.481660Z" visited="2024-07-18T10:26:47.481654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:26:47.481656Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials" added="2024-07-18T10:26:54.841215Z" modified="2024-07-18T10:26:54.841221Z" visited="2024-07-18T10:26:54.841216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-18T10:26:54.841218Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/zsh/manjaro-zsh-config" added="2024-07-18T10:33:24.542751Z" modified="2024-07-18T10:33:24.542757Z" visited="2024-07-18T10:33:24.542752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T10:33:24.542754Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/zsh/zsh-maia-prompt" added="2024-07-18T11:12:25.465563Z" modified="2024-07-19T02:00:38.819028Z" visited="2024-07-18T11:12:25.465564Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T11:12:25.465567Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T02:00:38.819026Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/zsh/manjaro-zsh-prompt" added="2024-07-18T11:12:54.194038Z" modified="2024-07-18T11:12:54.194044Z" visited="2024-07-18T11:12:54.194039Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-18T11:12:54.194041Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.local/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh" added="2024-07-19T02:16:55.790997Z" modified="2024-07-19T02:40:04.479951Z" visited="2024-07-19T02:16:55.790998Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T02:40:04.479949Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T02:16:56.114832Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.local/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh" added="2024-07-19T02:17:12.054940Z" modified="2024-07-19T02:42:36.538656Z" visited="2024-07-19T02:17:12.054941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T02:42:36.538649Z" count="4"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T02:17:12.372531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.local/share/zsh/manjaro-zsh-config" added="2024-07-19T02:18:49.533543Z" modified="2024-07-19T02:18:49.854648Z" visited="2024-07-19T02:18:49.533546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T02:18:49.533549Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T02:18:49.854646Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.local/share/zsh/zsh-config" added="2024-07-19T02:40:43.495367Z" modified="2024-07-19T10:05:51.299394Z" visited="2024-07-19T02:40:43.495367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T03:36:41.805458Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T10:05:51.299392Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.local/share/zsh/zsh-prompt" added="2024-07-19T02:44:30.737249Z" modified="2024-07-19T02:44:30.737257Z" visited="2024-07-19T02:44:30.737251Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T02:44:30.737254Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.zshenv" added="2024-07-19T02:54:33.393188Z" modified="2024-07-19T02:54:33.705691Z" visited="2024-07-19T02:54:33.393189Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T02:54:33.393193Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T02:54:33.705689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/conky/conkyrc" added="2024-07-19T02:55:29.693603Z" modified="2024-07-19T02:55:40.113855Z" visited="2024-07-19T02:55:29.693605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T02:55:40.113849Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T02:55:30.013496Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/termite/config" added="2024-07-19T02:57:19.661899Z" modified="2024-07-19T02:57:19.985671Z" visited="2024-07-19T02:57:19.661901Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T02:57:19.661903Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T02:57:19.985669Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/zsh/rc/pluginlist.zsh" added="2024-07-19T02:59:33.623075Z" modified="2024-07-19T03:32:56.913694Z" visited="2024-07-19T02:59:33.623077Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T03:32:56.913691Z" count="3"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T02:59:33.973635Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/zsh/rc/alias.zsh" added="2024-07-19T03:03:11.486931Z" modified="2024-07-19T03:03:11.486938Z" visited="2024-07-19T03:03:11.486933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T03:03:11.486935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/zsh/rc/bindkey.zsh" added="2024-07-19T03:10:15.382101Z" modified="2024-07-19T03:11:48.310122Z" visited="2024-07-19T03:10:15.382102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T03:10:15.382105Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T03:11:48.310114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/zsh/rc/prompt.zsh" added="2024-07-19T03:10:52.478919Z" modified="2024-07-19T03:10:52.478925Z" visited="2024-07-19T03:10:52.478920Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T03:10:52.478922Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/zsh/rc/base.zsh" added="2024-07-19T03:11:36.490194Z" modified="2024-07-19T03:11:36.490200Z" visited="2024-07-19T03:11:36.490194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T03:11:36.490197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/zsh/rc/completion.zsh" added="2024-07-19T03:11:56.475052Z" modified="2024-07-19T03:11:56.475058Z" visited="2024-07-19T03:11:56.475053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T03:11:56.475055Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/zsh/rc/function.zsh" added="2024-07-19T03:12:07.012192Z" modified="2024-07-19T03:12:07.012199Z" visited="2024-07-19T03:12:07.012193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T03:12:07.012197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/dotfiles-main/.config/zsh/rc/pluginconfig/fzf_atload.zsh" added="2024-07-19T03:33:27.873272Z" modified="2024-07-19T03:33:28.194385Z" visited="2024-07-19T03:33:27.873275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T03:33:27.873277Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T03:33:28.194382Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.local/share/zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh" added="2024-07-19T04:12:05.046875Z" modified="2024-07-19T04:12:05.046883Z" visited="2024-07-19T04:12:05.046877Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T04:12:05.046879Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.local/share/zsh/plugins/zsh-autocomplete/run-tests.zsh" added="2024-07-19T04:13:40.218498Z" modified="2024-07-19T04:13:40.218504Z" visited="2024-07-19T04:13:40.218499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T04:13:40.218501Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/st/config.def.h" added="2024-07-19T05:06:13.662762Z" modified="2024-07-19T13:51:11.019579Z" visited="2024-07-19T05:06:13.662763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T13:51:11.019576Z" count="3"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T05:06:13.993320Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/config.h" added="2024-07-19T05:16:43.846303Z" modified="2024-07-19T05:16:44.255669Z" visited="2024-07-19T05:16:43.846304Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T05:16:43.846306Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T05:16:44.255667Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/config.h" added="2024-07-19T05:32:44.352046Z" modified="2024-07-22T02:00:14.330805Z" visited="2024-07-19T05:32:44.352047Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:59:21.724358Z" count="4"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-22T02:00:14.330802Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/st-blinking_cursor-20230819-3a6d6d7.diff" added="2024-07-19T05:39:43.942774Z" modified="2024-07-19T15:17:43.889720Z" visited="2024-07-19T05:39:43.942776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-19T15:12:28.294571Z" count="5"/>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T15:17:43.889717Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T15:14:14.281674Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/config.h" added="2024-07-19T06:30:42.370624Z" modified="2024-07-19T06:30:42.706782Z" visited="2024-07-19T06:30:42.370625Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T06:30:42.370627Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T06:30:42.706780Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/.Xresources" added="2024-07-19T06:40:00.330373Z" modified="2024-07-19T06:40:00.643335Z" visited="2024-07-19T06:40:00.330375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T06:40:00.330377Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T06:40:00.643333Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/st-copyout" added="2024-07-19T06:43:08.624558Z" modified="2024-07-19T06:43:08.938387Z" visited="2024-07-19T06:43:08.624560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T06:43:08.624562Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T06:43:08.938385Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/x.c" added="2024-07-19T09:52:11.915714Z" modified="2024-07-19T09:52:11.915718Z" visited="2024-07-19T09:52:11.915715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T09:52:11.915716Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/st-alpha-20220206-0.8.5.diff" added="2024-07-19T10:19:31.754057Z" modified="2024-07-19T16:00:21.885672Z" visited="2024-07-19T10:19:31.754058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-19T16:00:21.885669Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Xresources" added="2024-07-19T12:54:22.984322Z" modified="2024-07-19T13:09:25.106898Z" visited="2024-07-19T12:54:22.984324Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T13:09:25.106893Z" count="3"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T12:54:23.304735Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/config.h" added="2024-07-19T15:07:25.519192Z" modified="2024-07-19T16:05:01.024006Z" visited="2024-07-19T15:07:25.519193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T16:05:01.024003Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T15:07:25.849217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/Makefile" added="2024-07-19T15:17:17.607481Z" modified="2024-07-19T15:17:17.607490Z" visited="2024-07-19T15:17:17.607483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T15:17:17.607486Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/local/man/man1/st.1" added="2024-07-19T15:46:35.852281Z" modified="2024-07-19T15:46:36.187067Z" visited="2024-07-19T15:46:35.852283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-19T15:46:35.852285Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-19T15:46:36.187065Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/patches/st-bold-is-not-bright-20190127-3be4cf1.diff" added="2024-07-19T16:12:28.677981Z" modified="2024-07-19T16:12:28.677991Z" visited="2024-07-19T16:12:28.677983Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-19T16:12:28.677986Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/patches/st-blinking_cursor-20230819-3a6d6d7.diff" added="2024-07-19T16:15:59.156628Z" modified="2024-07-20T00:27:26.848224Z" visited="2024-07-19T16:15:59.156630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-20T00:27:26.848220Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/patches/st-0.8.5-autocomplete-20220327-230120.diff" added="2024-07-19T17:17:25.268356Z" modified="2024-07-19T17:17:25.268366Z" visited="2024-07-19T17:17:25.268358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-19T17:17:25.268362Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/patches/st-alpha-20220206-0.8.5.diff" added="2024-07-20T00:20:09.614036Z" modified="2024-07-20T00:20:09.614043Z" visited="2024-07-20T00:20:09.614038Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-20T00:20:09.614040Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/patches/st-ligatures-20240105-0.9.diff" added="2024-07-20T00:21:07.434409Z" modified="2024-07-20T00:21:07.434416Z" visited="2024-07-20T00:21:07.434410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-20T00:21:07.434413Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/patches/st-font2-0.8.5.diff" added="2024-07-20T00:21:55.532946Z" modified="2024-07-20T00:21:55.532953Z" visited="2024-07-20T00:21:55.532947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-20T00:21:55.532949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Documents/Notes.txt" added="2024-07-20T02:51:47.198720Z" modified="2024-07-20T02:51:47.198724Z" visited="2024-07-20T02:51:47.198721Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-20T02:51:47.198722Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java-Notes" added="2024-07-20T02:55:49.926474Z" modified="2024-07-20T02:55:50.179733Z" visited="2024-07-20T02:55:49.926475Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-20T02:55:50.179731Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/astyle-3.5.2.tar.bz2" added="2024-07-20T03:13:17.693609Z" modified="2024-07-20T03:13:17.693613Z" visited="2024-07-20T03:13:17.693610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-07-20T03:13:17.693612Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/astyle-3.5.2/CMakeLists.txt" added="2024-07-20T03:14:06.623376Z" modified="2024-07-20T03:14:06.623381Z" visited="2024-07-20T03:14:06.623377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-cmake"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-20T03:14:06.623379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Downloads/astyle-3.5.2/doc/install.html" added="2024-07-20T03:15:34.531360Z" modified="2024-07-20T03:15:34.531368Z" visited="2024-07-20T03:15:34.531361Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2024-07-20T03:15:34.531363Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Desktop/Java-Programs/T1.java" added="2024-07-20T03:28:32.665964Z" modified="2024-07-20T03:28:32.921384Z" visited="2024-07-20T03:28:32.665965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-20T03:28:32.921382Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/SPRING%20BOOT.docx" added="2024-07-20T06:57:42.540759Z" modified="2024-07-20T10:44:29.434263Z" visited="2024-07-20T06:57:42.540760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --writer %U&apos;" modified="2024-07-20T10:18:38.036186Z" count="2"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-07-20T10:44:29.434262Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/i3-wm/.config/i3/autostart.conf" added="2024-07-20T09:49:04.698323Z" modified="2024-07-20T09:49:05.025663Z" visited="2024-07-20T09:49:04.698325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-20T09:49:04.698330Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-20T09:49:05.025661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/i3-wm/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml" added="2024-07-20T09:51:12.629440Z" modified="2024-07-20T09:51:12.941884Z" visited="2024-07-20T09:51:12.629441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-20T09:51:12.629443Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-20T09:51:12.941882Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Linux/i3-wm/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-notifyd.xml" added="2024-07-20T09:53:17.964644Z" modified="2024-07-20T09:53:18.275014Z" visited="2024-07-20T09:53:17.964645Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-20T09:53:17.964647Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-20T09:53:18.275012Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Notes.txt" added="2024-07-20T10:18:07.620477Z" modified="2024-07-22T01:56:19.161198Z" visited="2024-07-20T10:18:07.620478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-20T10:18:07.620480Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:56:19.161196Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/INTERVIEW%20QUESTIONS.pdf" added="2024-07-20T10:30:27.215669Z" modified="2024-07-21T10:58:38.441350Z" visited="2024-07-20T10:30:27.215670Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-07-21T10:58:38.441346Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Spring%20Boot%20Interview%20Questions.pdf" added="2024-07-20T11:21:38.391781Z" modified="2024-07-20T14:28:18.664146Z" visited="2024-07-20T11:21:38.391783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-07-20T14:28:18.664144Z" count="7"/>
+          <bookmark:application name="Document Viewer" exec="&apos;xreader %u&apos;" modified="2024-07-20T11:32:41.766560Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Desktop/Spring%20Boot%20Interview%20Questions.pdf" added="2024-07-20T11:32:14.717277Z" modified="2024-07-20T11:32:14.717283Z" visited="2024-07-20T11:32:14.717278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-07-20T11:32:14.717280Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Spring%20Boot%20Annotations.pdf" added="2024-07-20T13:15:47.482050Z" modified="2024-07-21T09:53:56.181854Z" visited="2024-07-20T13:15:47.482052Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-07-21T09:53:56.181850Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/patches/st-scrollback-0.8.5.diff" added="2024-07-20T13:41:03.977398Z" modified="2024-07-22T02:24:06.072346Z" visited="2024-07-20T13:41:03.977399Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-22T02:24:06.072342Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Hibernate%20Framework.pdf" added="2024-07-21T04:47:02.040949Z" modified="2024-07-21T09:19:00.432684Z" visited="2024-07-21T04:47:02.040950Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-07-21T09:19:00.432680Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Java-SE.pdf" added="2024-07-21T04:50:19.760957Z" modified="2024-07-21T13:04:57.842319Z" visited="2024-07-21T04:50:19.760958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-07-21T13:04:57.842316Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Design-pattern.txt" added="2024-07-21T07:49:37.577433Z" modified="2024-07-21T08:16:30.250989Z" visited="2024-07-21T07:49:37.577435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-21T08:16:30.250986Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-21T07:49:37.913145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/CI-CD" added="2024-07-21T07:51:19.378024Z" modified="2024-07-22T01:56:19.162354Z" visited="2024-07-21T07:51:19.378027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:56:19.162352Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/SDLC" added="2024-07-21T08:01:50.584595Z" modified="2024-07-22T01:56:19.163225Z" visited="2024-07-21T08:01:50.584595Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:56:19.163223Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Angular%20Framework.docx" added="2024-07-21T08:10:40.040117Z" modified="2024-07-21T08:10:43.410393Z" visited="2024-07-21T08:10:40.040119Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --writer %U&apos;" modified="2024-07-21T08:10:40.040120Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-07-21T08:10:43.410388Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/ApplicationProperties.txt" added="2024-07-21T08:11:11.476251Z" modified="2024-07-22T01:56:19.163900Z" visited="2024-07-21T08:11:11.476253Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:56:19.163898Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/AUT.txt" added="2024-07-21T08:13:02.631417Z" modified="2024-07-21T08:13:02.631423Z" visited="2024-07-21T08:13:02.631417Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-21T08:13:02.631420Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Binry-Search-Algorithm-Questions.pdf" added="2024-07-21T08:13:30.501329Z" modified="2024-07-21T08:13:30.501338Z" visited="2024-07-21T08:13:30.501331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-07-21T08:13:30.501334Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/singleton%20class.txt" added="2024-07-21T09:09:54.996034Z" modified="2024-07-22T01:56:19.164549Z" visited="2024-07-21T09:09:54.996035Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:56:19.164547Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Transactional.txt" added="2024-07-21T09:18:18.030425Z" modified="2024-07-22T01:56:19.165208Z" visited="2024-07-21T09:18:18.030427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-21T09:18:18.030428Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:56:19.165206Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/ResponseEntity" added="2024-07-21T09:19:57.992580Z" modified="2024-07-22T01:56:19.165864Z" visited="2024-07-21T09:19:57.992582Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-21T09:19:57.992583Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:56:19.165862Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Project%20related%20Question.txt" added="2024-07-21T09:24:00.129498Z" modified="2024-07-22T01:56:19.166603Z" visited="2024-07-21T09:24:00.129498Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:56:19.166601Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/REST%20API.pdf" added="2024-07-21T09:31:18.475006Z" modified="2024-07-21T09:31:18.475015Z" visited="2024-07-21T09:31:18.475008Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-07-21T09:31:18.475010Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Java-1.8.pdf" added="2024-07-21T09:33:21.685949Z" modified="2024-07-21T09:33:21.685956Z" visited="2024-07-21T09:33:21.685951Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-07-21T09:33:21.685953Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Java-SE.docx" added="2024-07-21T09:34:21.308369Z" modified="2024-07-21T09:34:25.117710Z" visited="2024-07-21T09:34:21.308371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --writer %U&apos;" modified="2024-07-21T09:34:21.308373Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-07-21T09:34:25.117708Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/Java%20Materials/Java-1.8.docx" added="2024-07-21T09:34:28.840370Z" modified="2024-07-21T09:34:31.664682Z" visited="2024-07-21T09:34:28.840372Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --writer %U&apos;" modified="2024-07-21T09:34:28.840375Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2024-07-21T09:34:31.664678Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/config.def.h" added="2024-07-22T01:40:51.112333Z" modified="2024-07-22T02:26:06.445207Z" visited="2024-07-22T01:40:51.112335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-22T02:26:06.445205Z" count="6"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T01:56:19.167277Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/patches/st-scrollback-0.8.4.diff" added="2024-07-22T02:04:39.377512Z" modified="2024-07-22T02:07:05.204793Z" visited="2024-07-22T02:04:39.377515Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-22T02:04:39.377517Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T02:07:05.204789Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/st.c.rej" added="2024-07-22T02:06:45.945849Z" modified="2024-07-22T02:06:46.284185Z" visited="2024-07-22T02:06:45.945851Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-22T02:06:45.945853Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T02:06:46.284183Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/st/patches/st-scrollback-mouse-20220127-2c5edf2.diff" added="2024-07-22T02:10:48.865279Z" modified="2024-07-22T02:10:48.865289Z" visited="2024-07-22T02:10:48.865280Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-22T02:10:48.865284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Desktop/Java-Programs/CountCharacter.java" added="2024-07-22T05:47:05.390116Z" modified="2024-07-22T05:47:05.648865Z" visited="2024-07-22T05:47:05.390117Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T05:47:05.648863Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Desktop/Test.java" added="2024-07-22T10:05:53.871652Z" modified="2024-07-22T10:05:54.126030Z" visited="2024-07-22T10:05:53.871654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-22T10:05:54.126026Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/ammarah/Miscellaneous/Video/Gadar_2_(2023)_Hindi_Movies_HDRip_Full_HD_720p.mp4" added="2024-07-22T14:22:46.216660Z" modified="2024-07-22T14:51:14.546436Z" visited="2024-07-22T14:22:46.216662Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2024-07-22T14:51:14.546433Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Pictures/Screenshots/screenshot-20240723-145901Z-selected.png" added="2024-07-23T15:00:01.957550Z" modified="2024-07-23T15:00:01.957557Z" visited="2024-07-23T15:00:01.957552Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-23T15:00:01.957553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/Pictures/Screenshots/screenshot-20240723-150228Z-selected.png" added="2024-07-23T15:03:04.945462Z" modified="2024-07-23T15:03:04.945469Z" visited="2024-07-23T15:03:04.945463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-07-23T15:03:04.945465Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/OneDrive/git-hub-token" added="2024-07-24T08:41:53.160047Z" modified="2024-07-24T09:17:52.708037Z" visited="2024-07-24T08:41:53.160048Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-24T08:41:53.414687Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;xed %U&apos;" modified="2024-07-24T09:17:52.154791Z" count="1"/>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2024-07-24T09:17:52.708035Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.zhistory" added="2024-07-24T08:54:38.885824Z" modified="2024-07-24T08:54:39.221983Z" visited="2024-07-24T08:54:38.885826Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-24T08:54:38.885828Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-24T08:54:39.221981Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/networkmanager-dmenu/config.ini" added="2024-07-24T09:21:52.041933Z" modified="2024-07-24T09:21:52.382978Z" visited="2024-07-24T09:21:52.041935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-24T09:21:52.041938Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-24T09:21:52.382976Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/user-dirs.dirs" added="2024-07-24T09:22:10.800564Z" modified="2024-07-24T09:22:11.137588Z" visited="2024-07-24T09:22:10.800566Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-24T09:22:10.800569Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-24T09:22:11.137586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/user-dirs.locale" added="2024-07-24T09:22:17.440258Z" modified="2024-07-24T09:22:17.784044Z" visited="2024-07-24T09:22:17.440259Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;geany %F&apos;" modified="2024-07-24T09:22:17.440264Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-24T09:22:17.784042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/pavucontrol.ini" added="2024-07-24T09:22:20.936917Z" modified="2024-07-24T09:22:20.936923Z" visited="2024-07-24T09:22:20.936917Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-24T09:22:20.936920Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ammarah/.config/mimeapps.list" added="2024-07-24T09:22:23.777150Z" modified="2024-07-24T09:22:23.777158Z" visited="2024-07-24T09:22:23.777152Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-07-24T09:22:23.777155Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
