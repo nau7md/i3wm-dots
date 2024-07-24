@@ -1,0 +1,2 @@
+2024-06-09 15:58:50.602 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/89de5a8d4d6205e5b11647eb6a74844ca23d2573 - error undefined net::ERR_NAME_NOT_RESOLVED
+2024-06-09 15:58:52.642 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED

@@ -1,0 +1,145 @@
+# import file
+include ~/.config/i3/keybinding.conf
+include ~/.config/i3/autostart.conf
+include ~/.config/i3/floatingwindow.conf
+
+# font
+font xft:DejaVu Math TeX Gyre Regular 7
+
+# main mod
+set $mod Mod4
+set $alt Mod1
+
+# default i3 tiling mode
+workspace_layout default
+
+# border indicator on windows
+default_border pixel 1
+default_floating_border normal 
+
+# hide borders
+hide_edge_borders none
+
+# change borders
+bindsym $mod+u border none
+bindsym $mod+y border pixel 1
+bindsym $mod+n border normal
+
+# use Mouse+$mod to drag floating windows
+floating_modifier $mod
+
+# i3-gaps
+gaps inner 6
+gaps outer 3
+smart_gaps on
+smart_borders on
+
+# set workspace name
+set $ws1 "1:"
+set $ws2 "2:"
+set $ws3 "3:"
+set $ws4 "4:"
+set $ws5 "5:"
+set $ws6 "6:" 
+set $ws7 "7:"
+set $ws8 "8:"
+set $ws9 "9"
+
+# bind program to workspace and focus to them on startup:
+assign [class="URxvt"] $ws1
+assign [class="(?i)firefox"] $ws2
+assign [class="thunderbird"] $ws3
+assign [class="Thunar"] $ws4
+assign [class="jetbrains-idea-ce"] $ws5
+assign [class="Google-chrome"] $ws6
+assign [class="Geany"] $ws7
+assign [class="xreader"]$ws8
+
+# automatic set focus new window if it opens on another workspace than the current:
+for_window [class=URxvt] focus
+for_window [class=(?i)firefox] focus
+for_window [class=Thunderbird] focus
+for_window [class=Thunar] focus
+for_window [class=jetbrains-idea-ce] focus
+for_window [class=Google-chrome] focus
+for_window [class=Geany] focus
+for_window [class=xreader]focus
+
+# switch to workspace with urgent window automatically
+for_window [urgent="latest"] focus
+focus_on_window_activation focus 
+
+# switch to workspace
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace $ws5
+bindsym $mod+6 workspace $ws6
+bindsym $mod+7 workspace $ws7
+bindsym $mod+8 workspace $ws8
+bindsym $mod+9 workspace $ws9
+
+# move focused container to workspace
+bindsym $mod+Ctrl+1 move container to workspace $ws1
+bindsym $mod+Ctrl+2 move container to workspace $ws2
+bindsym $mod+Ctrl+3 move container to workspace $ws3
+bindsym $mod+Ctrl+4 move container to workspace $ws4
+bindsym $mod+Ctrl+5 move container to workspace $ws5
+bindsym $mod+Ctrl+6 move container to workspace $ws6
+bindsym $mod+Ctrl+7 move container to workspace $ws7
+bindsym $mod+Ctrl+8 move container to workspace $ws8
+bindsym $mod+Ctrl+9 move container to workspace $ws9
+
+# move to workspace with focused container
+bindsym $mod+Shift+1 move container to workspace $ws1; workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2; workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3; workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4; workspace $ws4
+bindsym $mod+Shift+5 move container to workspace $ws5; workspace $ws5
+bindsym $mod+Shift+6 move container to workspace $ws6; workspace $ws6
+bindsym $mod+Shift+7 move container to workspace $ws7; workspace $ws7
+bindsym $mod+Shift+8 move container to workspace $ws8; workspace $ws8
+bindsym $mod+Shift+9 move container to workspace $ws9; workspace $ws9
+                             
+# start i3bar to display a workspace bar (plus the system information i3status if available)
+bar {
+       status_command i3status -c /home/$USER/.config/i3/i3status/i3status.conf
+ 	position bottom
+        
+# please set your primary output first. Example: 'xrandr --output eDP1 --primary'
+	    tray_output primary
+	    #tray_output none
+            tray_padding 0   
+		    
+# when strip_workspace_numbers is set to yes, any workspace that has a name of the form \“[n][:][NAME]” will display only the name.
+       strip_workspace_numbers yes
+       #strip_workspace_name no		        
+       	               	    
+    colors {
+#             bar             bg  
+		background	#0c0e0f
+		separator	#444444
+		statusline	#edeff0
+
+# 	        workclass	       border  bg      text
+                focused_workspace  #F9FAF9 #edeff0 #0c0e0f
+                active_workspace   #595B5B #353836 #FDF6E3
+                inactive_workspace #595B5B #222D31 #EEE8D5
+                binding_mode       #16a085 #2C2C2C #F9FAF9
+                urgent_workspace   #16a085 #FDF6E3 #E5201D 
+      }
+}
+
+# theme colors
+# class                   border   bg      text      indicator     child_border
+  client.focused          #556064  #556064  #edeff0  #FDF6E3       #556064
+  client.focused_inactive #2F3D44  #2F3D44  #edeff0  #454948       #2F3D44
+  client.unfocused        #2F3D44  #2F3D44  #edeff0  #454948       #2F3D44
+  client.urgent           #CB4B16  #FDF6E3  #1ABC9C  #268BD2       #FDF6E3
+  client.placeholder      #000000  #0c0c0c  #edeff0  #000000       #0c0c0c
+
+  client.background       #2B2C2B
+
+
+

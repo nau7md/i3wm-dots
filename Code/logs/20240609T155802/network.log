@@ -1,0 +1,8 @@
+2024-06-09 15:58:05.944 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/89de5a8d4d6205e5b11647eb6a74844ca23d2573 - error undefined net::ERR_NAME_NOT_RESOLVED
+2024-06-09 15:58:08.050 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-06-09 15:58:10.885 [error] electron #4: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-06-09 15:58:11.817 [error] electron #5: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-06-09 15:58:13.376 [error] electron #6: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-06-09 15:58:25.215 [error] electron #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-06-09 15:58:28.594 [error] electron #8: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2024-06-09 15:58:33.399 [error] electron #9: https://update.code.visualstudio.com/api/update/linux-x64/stable/89de5a8d4d6205e5b11647eb6a74844ca23d2573 - error undefined net::ERR_NAME_NOT_RESOLVED
