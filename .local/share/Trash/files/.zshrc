@@ -1,1 +1,0 @@
-/home/ammarah/i3wm-dots/.zshrc/
