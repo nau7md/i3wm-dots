@@ -1,0 +1,19 @@
+.csd .titlebar {
+ border-radius: 0;
+}
+
+.window-frame {
+ border-radius: 0;
+}
+
+decoration, window, window.background, window.titlebar, * {
+border-radius: 0px;
+}
+
+.titlebar,
+.titlebar .background, * {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
