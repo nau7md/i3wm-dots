@@ -1,0 +1,99 @@
+Xft.dpi: 120
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: true
+Xft.hintstyle: hintfull
+Xft.lcdfilter: lcdfilter
+
+URxvt.letterSpace: -1
+URxvt.lineSpace: 0
+URxvt.geometry: 92x40
+URxvt.internalBorder: 32
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: true
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 32
+URxvt.iso14755: false
+
+!! URxvt Appearance
+*.font: xft:JetBrains Mono:style=Regular:size=11
+*.boldFont: xft:JetBrains Mono:style=Bold:size=11
+*.italicFont: xft:JetBrains Mono:style=Italic:size=11
+*.boldItalicFont: xft:JetBrains Mono:style=Bold Italic:size=11
+
+!! Setting transparency and background                                                                                                                                                                                                                                                                                             
+URxvt.background: rgba:0000/0000/0000/cccc  
+
+!! Common Keybinds for Navigations
+URxvt.keysym.Shift-Up: command:\033]720;1\007
+URxvt.keysym.Shift-Down: command:\033]721;1\007
+URxvt.keysym.Control-Up: \033[1;5A
+URxvt.keysym.Control-Down: \033[1;5B
+URxvt.keysym.Control-Right: \033[1;5C
+URxvt.keysym.Control-Left: \033[1;5D
+
+!! Copy Paste & Other Extensions
+URxvt.keysym.Shift-Control-V:     eval:paste_clipboard
+URxvt.keysym.Shift-Control-C:     eval:selection_to_clipboard
+URxvt.urlLauncher: firefox
+URxvt.underlineURLs: true
+URxvt.urlButton: 1
+
+!! Extensions
+URxvt.perl-ext-common: default,matcher,resize-font,url-select,keyboard-select,clipboard
+URxvt.colorUL: #4682B4
+!! url-select
+URxvt.keysym.M-u: perl:url-select:select_next
+URxvt.url-select.launcher: urxvt -e lynx -cfg=~/.lynx.cfg -lss=~/.lynx.lss
+URxvt.url-select.underline: true
+!! keyboard-select:
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+!! resize-font
+URxvt.keysym.C-k:   font-size:increase
+URxvt.keysym.C-j:   font-size:decrease
+!! Matcher
+URxvt.url-launcher:	urxvt -e lynx -cfg=~/.lynx.cfg -lss=~/.lynx.lss
+URxvt.matcher.button: 1
+
+!! Colorscheme
+
+! special
+*.foreground: #edeff0
+*.background: #0c0e0f
+*.cursorColor: #edeff0
+
+! black
+*.color0:       #232526
+*.color8:       #2c2e2f
+
+! red
+*.color1:       #df5b61
+*.color9:       #e8646a
+
+! green
+*.color2:       #78b892
+*.color10:      #81c19b
+
+! yellow
+*.color3:       #de8f78
+*.color11:      #e79881
+
+! blue
+*.color4:       #6791c9
+*.color12:      #709ad2
+
+! magenta
+*.color5:       #bc83e3
+*.color13:      #c58cec
+
+! cyan
+*.color6:       #67afc1
+*.color14:      #70b8ca
+
+! white
+*color7:        #e4e6e7
+*color15:       #f2f4f5
