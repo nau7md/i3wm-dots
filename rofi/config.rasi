@@ -1,0 +1,4 @@
+ @theme "~/.config/rofi/themes/arc_dark_transparent_colors.rasi"
+ 
+/* Dark theme. */
+/*@import "~/.cache/wal/colors-rofi-dark"*/

@@ -1,0 +1,169 @@
+/*******************************************************
+ * ROFI configs i3 Apps menu for EndeavourOS
+ * Maintainer: joekamprad [joekamprad //a_t// endeavouros.com]
+ *******************************************************/
+ 
+configuration {
+	show-icons:		false;
+	sidebar-mode: 	false;
+	hover-select: true;	
+	me-select-entry: "";
+	me-accept-entry: [MousePrimary];
+}
+
+*{
+	font: "DejaVu Sans Mono 12";			//Font
+	//Colors
+	foreground:#f8f8f2; 				//Text
+	background:#282a36; 				//Background 
+	accent:#44475a; 					//Highlight
+	foreground-selection:@foreground; 	//Selection_fg
+	background-selection:#44475a; 		//Selection_bg
+
+	selected-normal-foreground:  rgba ( 255, 147, 5, 100 % );
+    foreground:                  rgba ( 196, 203, 212, 100 % );
+    normal-foreground:           @foreground;
+    alternate-normal-background: rgba ( 45, 48, 59, 1 % );
+    red:                         rgba ( 220, 50, 47, 100 % );
+    selected-urgent-foreground:  rgba ( 249, 249, 249, 100 % );
+    blue:                        rgba ( 38, 139, 210, 100 % );
+    urgent-foreground:           rgba ( 204, 102, 102, 100 % );
+    alternate-urgent-background: rgba ( 75, 81, 96, 90 % );
+    active-foreground:           rgba ( 101, 172, 255, 100 % );
+    lightbg:                     rgba ( 238, 232, 213, 100 % );
+    selected-active-foreground:  rgba ( 249, 249, 249, 100 % );
+    alternate-active-background: rgba ( 45, 48, 59, 88 % );
+    background:                  rgba ( 45, 48, 59, 88 % );
+    alternate-normal-foreground: @foreground;
+    normal-background:           rgba ( 45, 48, 59, 1 % );
+    lightfg:                     rgba ( 88, 104, 117, 100 % );
+    selected-normal-background:  rgba ( 24, 26, 32, 100 % );
+    border-color:                rgba ( 124, 131, 137, 100 % );
+    spacing:                     2;
+    separatorcolor:              rgba ( 45, 48, 59, 1 % );
+    urgent-background:           rgba ( 45, 48, 59, 15 % );
+    selected-urgent-background:  rgba ( 165, 66, 66, 100 % );
+    alternate-urgent-foreground: @urgent-foreground;
+    background-color:            rgba ( 0, 0, 0, 0 % );
+    alternate-active-foreground: @active-foreground;
+    active-background:           rgba ( 29, 31, 33, 17 % );
+    selected-active-background:  rgba ( 26, 28, 35, 100 % );
+}
+window {
+	text-color:			@foreground;
+	background-color:	@background;
+	padding: 			10;
+}
+mainbox {
+	border:		0;
+	padding: 	0;
+}
+textbox {
+	text-color: @foreground;
+}
+listview {
+	spacing:		8px;
+	dynamic:		true;
+	fixed-height:	false;
+	border:			0;
+	scrollbar:		false;
+	text-color:		@separatorcolor;
+}
+element {
+	border:			0;
+	padding:		0;
+	border-radius:	4px;
+}
+element-text {
+	background-color: inherit;
+	text-color:       inherit;
+}
+element.normal.normal {
+	text-color:			@normal-foreground;
+	background-color:	@normal-background;
+}
+element.normal.urgent {
+	text-color:			@urgent-foreground;
+	background-color:	@urgent-background;
+}
+element.normal.active {
+	text-color:			@active-foreground;
+	background-color:	@active-background;
+}
+element.selected.normal {
+	text-color:			@selected-normal-foreground;
+	background-color:	@selected-normal-background;
+}
+element.selected.urgent {
+	text-color:			@selected-urgent-foreground;
+	background-color:	@selected-urgent-background;
+}
+element.selected.active {
+	text-color:			@selected-active-foreground;
+	background-color:	@selected-active-background;
+}
+element.alternate.normal {
+	text-color:			@alternate-normal-foreground;
+	background-color:	@alternate-normal-background;
+}
+element.alternate.urgent {
+	text-color:			@alternate-urgent-foreground;
+	background-color:	@alternate-urgent-background;
+}
+element.alternate.active {
+	text-color:			@alternate-active-foreground;
+	background-color:	@alternate-active-background;
+}
+mode-switcher {
+	border:	0;
+}
+button selected {
+	text-color:			@selected-normal-foreground;
+	background-color:	@selected-normal-background;
+}
+button normal {
+	text-color:	@foreground;
+}
+inputbar {
+	children: [prompt,textbox-prompt-colon,entry];
+}
+prompt{
+    spacing:    0;
+    text-color:			@normal-foreground;
+}
+textbox-prompt-colon{
+	expand:	false;
+	margin: 0;
+	str:	":";
+	text-color: @normal-foreground;
+}
+entry {
+	placeholder:	"";
+	spacing:    0;
+	text-color: @normal-foreground;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
