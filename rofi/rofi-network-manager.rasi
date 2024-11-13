@@ -53,6 +53,7 @@ window {
 	text-color:			@foreground;
 	background-color:	@background;
 	padding: 			10;
+	border:		2px;
 }
 mainbox {
 	border:		0;
