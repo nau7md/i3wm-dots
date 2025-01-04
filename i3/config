@@ -1,0 +1,12 @@
+# set modes
+set $mod Mod4
+set $alt Mod1
+
+# import files
+include ~/.config/i3/config.d/base.conf
+include ~/.config/i3/config.d/bind.conf
+include ~/.config/i3/config.d/startup.conf
+include ~/.config/i3/config.d/bar.conf
+include ~/.config/i3/config.d/i3.conf
+include ~/.config/i3/config.d/window.conf
+

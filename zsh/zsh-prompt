@@ -1,0 +1,20 @@
+() {
+  emulate -L zsh
+  # Determine terminal capabilities.
+  {
+    if ! zmodload zsh/langinfo zsh/terminfo ||
+       [[ $langinfo[CODESET] != (utf|UTF)(-|)8 || $TERM == (dumb|linux) ]] ||
+       (( terminfo[colors] < 256 )); then
+      # Don't use the powerline config. It won't work on this terminal.
+      local USE_POWERLINE=false
+      # Define alias `x` if our parent process is `login`.
+      local parent
+      if { parent=$(</proc/$PPID/comm) } && [[ ${parent:t} == login ]]; then
+        alias x='startx ~/.xinitrc'
+      fi
+    fi
+  }
+
+ }
+#PS1='%B%F{#BBBBBB}[%F{#BBBBBB}%n%F{#BBBBBB}%b@%B%F{#BBBBBB}%m %F{#BBBBBB}%~%F{#BBBBBB}]%f%b$ '
+ PS1='%B%F{#D8D8D8}[%F{#D8D8D8}%n%F{#D8D8D8}%B@%B%F{#D8D8D8}%m %F{#D8D8D8}%~%F{#D8D8D8}]%f%B$ ' 
