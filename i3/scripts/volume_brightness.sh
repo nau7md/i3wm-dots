@@ -21,16 +21,16 @@ function get_volume_icon {
     volume=$(get_volume)
     mute=$(get_mute)
     if [ "$volume" -eq 0 ] || [ "$mute" -eq 1 ]; then
-        volume_icon=""  # Mute icon
+        volume_icon="󰕿"  # Mute icon
     elif [ "$volume" -lt 50 ]; then
-        volume_icon=""  # Low volume icon
+        volume_icon="󰖀"  # Low volume icon
     else
-        volume_icon=""  # High volume icon
+        volume_icon="󰕾"  # High volume icon
     fi
 }
 
 function get_brightness_icon {
-    brightness_icon=""
+    brightness_icon="󰃠"
 }
 
 function show_volume_notif {
