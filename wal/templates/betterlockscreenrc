@@ -1,0 +1,40 @@
+# ~/.config/betterlockscreen/betterlockscreenrc
+
+# default options
+display_on=0
+span_image=false
+lock_timeout=300
+fx_list=(dim blur dimblur pixel dimpixel color)
+dim_level=40
+blur_level=1
+pixel_scale=10,1000
+solid_color=333333
+description=""
+quiet=false
+
+# default theme
+loginbox={background.strip}ff
+loginshadow={background.strip}00
+locktext="Type password to unlock..."
+font="sans-serif"
+ringcolor={color7.strip}ff
+insidecolor={color7.strip}00
+separatorcolor={color7.strip}00
+ringvercolor={color7.strip}ff
+insidevercolor={color7.strip}00
+ringwrongcolor={color7.strip}ff
+insidewrongcolor={color1.strip}ff
+timecolor={color7.strip}ff
+time_format="%H:%M:%S"
+greetercolor={color7.strip}ff
+layoutcolor={color7.strip}ff
+keyhlcolor={color1.strip}ff
+shlcolor={color1.strip}ff
+veriftext="Verifying..."
+verifcolor={color10.strip}ff
+wrongtext="Failure!"
+wrongcolor={color1.strip}ff
+modifcolor={color1.strip}ff
+bgcolor={background.strip}ff
+
+
